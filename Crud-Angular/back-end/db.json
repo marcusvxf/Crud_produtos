@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.99
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac pro",
+      "price": 12000.89
+    },
+    {
+      "name": "Cadeira",
+      "price": "600",
+      "id": 3
+    },
+    {
+      "name": "Televisão samsung",
+      "price": "2000.00",
+      "id": 4
+    },
+    {
+      "name": "Maquina",
+      "price": "9999.99",
+      "id": 5
+    },
+    {
+      "name": "Computador",
+      "price": "5000",
+      "id": 7
+    },
+    {
+      "name": "Caixa de som",
+      "price": "300",
+      "id": 8
+    },
+    {
+      "name": "Teclado sem fio",
+      "price": "235",
+      "id": 9
+    }
+  ]
+}
